@@ -33,7 +33,7 @@ Esta demo está dirigida a **usuarios adultos (tutores/administración)**.
 No se gestionan datos de alumnos/menores en esta etapa. Cuando se activen módulos académicos, publicaremos cláusulas adicionales.
 
 ## 7) Conservación
-- **Cuenta:** mientras esté activa y por **[X meses/años]** para cierre técnico.  
+- **Cuenta:** mientras esté activa hasta que se complete el ciclo escolar o sea dado de baja.  
 - **Logs de seguridad:** **[6–12 meses]**.
 
 ## 8) Derechos ARCO y revocación
